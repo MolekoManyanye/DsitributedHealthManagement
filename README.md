@@ -13,7 +13,7 @@ This is a Flask-based RESTful API for managing healthcare data including patient
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/KabeloLebitsa/NodeDesignDDBSPrototype.git
+git clone https://github.com/MolekoManyanye/DsitributedHealthManagement.git
 ```
 ##dependancy 
 yml file takes care of those
